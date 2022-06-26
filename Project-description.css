@@ -1,0 +1,1858 @@
+.u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 1.5rem;
+  font-style: italic;
+  margin: 20px 0 60px;
+}.u-section-2 {
+  background-image: none;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 610px;
+}
+
+.u-section-2 .u-image-1 {
+  width: 871px;
+  height: 477px;
+  margin: 12px auto 0;
+}
+
+.u-section-2 .u-text-1 {
+  font-style: italic;
+  font-size: 1.25rem;
+  margin: 12px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-image-1 {
+    height: 476px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 527px;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 720px;
+    height: 393px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 429px;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 540px;
+    height: 295px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 320px;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 340px;
+    height: 186px;
+  }
+}.u-section-3 {
+  background-image: none;
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 1298px;
+}
+
+.u-section-3 .u-text-1 {
+  font-weight: 400;
+  font-family: "Black Ops One";
+  font-size: 4.5rem;
+  margin: 20px 778px 0 0;
+}
+
+.u-section-3 .u-text-2 {
+  font-weight: 400;
+  font-family: "Black Ops One";
+  font-size: 2.25rem;
+  margin: -7px 1036px 0 0;
+}
+
+.u-section-3 .u-image-1 {
+  width: 803px;
+  height: 496px;
+  margin: 5px auto 0;
+}
+
+.u-section-3 .u-text-3 {
+  font-style: italic;
+  font-size: 1.25rem;
+  width: 320px;
+  margin: 16px auto 0;
+}
+
+.u-section-3 .u-text-4 {
+  font-size: 1.5rem;
+  margin: 65px -11px 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-text-1 {
+    margin-right: 578px;
+  }
+
+  .u-section-3 .u-text-2 {
+    margin-right: 836px;
+  }
+
+  .u-section-3 .u-text-4 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1247px;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-right: 358px;
+  }
+
+  .u-section-3 .u-text-2 {
+    margin-right: 616px;
+  }
+
+  .u-section-3 .u-image-1 {
+    width: 720px;
+    height: 445px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1136px;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-right: 178px;
+  }
+
+  .u-section-3 .u-text-2 {
+    margin-right: 436px;
+  }
+
+  .u-section-3 .u-image-1 {
+    width: 540px;
+    height: 334px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1012px;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-right: 0;
+    font-size: 2.25rem;
+  }
+
+  .u-section-3 .u-text-2 {
+    margin-right: 236px;
+  }
+
+  .u-section-3 .u-image-1 {
+    width: 340px;
+    height: 210px;
+  }
+}.u-section-4 {
+  background-image: none;
+}
+
+.u-section-4 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-4 .u-text-1 {
+  font-weight: 400;
+  font-family: "Black Ops One";
+  font-size: 4.5rem;
+  margin: 20px 778px 0 0;
+}
+
+.u-section-4 .u-text-2 {
+  font-weight: 400;
+  font-family: "Black Ops One";
+  font-size: 2.25rem;
+  margin: -7px 935px 0 0;
+}
+
+.u-section-4 .u-text-3 {
+  font-size: 1.5rem;
+  margin: 20px -23px 60px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-text-1 {
+    margin-right: 578px;
+  }
+
+  .u-section-4 .u-text-2 {
+    margin-right: 735px;
+  }
+
+  .u-section-4 .u-text-3 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-text-1 {
+    margin-right: 358px;
+  }
+
+  .u-section-4 .u-text-2 {
+    margin-right: 515px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-text-1 {
+    margin-right: 178px;
+  }
+
+  .u-section-4 .u-text-2 {
+    margin-right: 335px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-text-1 {
+    margin-right: 0;
+    font-size: 2.25rem;
+  }
+
+  .u-section-4 .u-text-2 {
+    margin-right: 135px;
+  }
+}.u-section-5 {
+  background-image: none;
+}
+
+.u-section-5 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-5 .u-text-1 {
+  font-weight: 400;
+  font-family: "Black Ops One";
+  font-size: 4.5rem;
+  margin: 20px 778px 0 0;
+}
+
+.u-section-5 .u-text-2 {
+  font-weight: 400;
+  font-family: "Black Ops One";
+  font-size: 2.25rem;
+  margin: -7px 929px 0 0;
+}
+
+.u-section-5 .u-text-3 {
+  font-size: 1.5rem;
+  margin: 20px -23px 60px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-5 .u-text-1 {
+    margin-right: 578px;
+  }
+
+  .u-section-5 .u-text-2 {
+    margin-right: 729px;
+  }
+
+  .u-section-5 .u-text-3 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-5 .u-text-1 {
+    margin-right: 358px;
+  }
+
+  .u-section-5 .u-text-2 {
+    margin-right: 509px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-5 .u-text-1 {
+    margin-right: 178px;
+  }
+
+  .u-section-5 .u-text-2 {
+    margin-right: 329px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-5 .u-text-1 {
+    margin-right: 0;
+    font-size: 2.25rem;
+  }
+
+  .u-section-5 .u-text-2 {
+    margin-right: 129px;
+  }
+}.u-section-6 {
+  background-image: none;
+}
+
+.u-section-6 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-6 .u-text-1 {
+  font-weight: 400;
+  font-family: "Black Ops One";
+  font-size: 4.5rem;
+  margin: 20px 344px 0 0;
+}
+
+.u-section-6 .u-text-2 {
+  font-weight: 400;
+  font-family: "Black Ops One";
+  font-size: 2.25rem;
+  margin: -7px 1043px 0 0;
+}
+
+.u-section-6 .u-text-3 {
+  font-size: 1.5rem;
+  margin: 20px -23px 60px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-6 .u-text-1 {
+    margin-right: 144px;
+  }
+
+  .u-section-6 .u-text-2 {
+    margin-right: 843px;
+  }
+
+  .u-section-6 .u-text-3 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-6 .u-text-1 {
+    margin-right: 0;
+  }
+
+  .u-section-6 .u-text-2 {
+    margin-right: 623px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-6 .u-text-2 {
+    margin-right: 443px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-6 .u-text-1 {
+    font-size: 2.25rem;
+  }
+
+  .u-section-6 .u-text-2 {
+    margin-right: 243px;
+  }
+}.u-section-7 {
+  background-image: none;
+}
+
+.u-section-7 .u-sheet-1 {
+  min-height: 587px;
+}
+
+.u-section-7 .u-text-1 {
+  font-weight: 400;
+  font-family: "Black Ops One";
+  font-size: 4.5rem;
+  margin: 20px 344px 0 0;
+}
+
+.u-section-7 .u-text-2 {
+  font-weight: 400;
+  font-family: "Black Ops One";
+  font-size: 2.25rem;
+  margin: -7px 730px 0 0;
+}
+
+.u-section-7 .u-text-3 {
+  font-family: Amaranth;
+  font-size: 2.25rem;
+  margin: 15px 921px 0 0;
+}
+
+.u-section-7 .u-text-4 {
+  font-size: 1.5rem;
+  margin: 38px -23px 60px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-7 .u-text-1 {
+    margin-right: 144px;
+  }
+
+  .u-section-7 .u-text-2 {
+    margin-right: 530px;
+  }
+
+  .u-section-7 .u-text-3 {
+    font-weight: normal;
+    margin-right: 721px;
+  }
+
+  .u-section-7 .u-text-4 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-7 .u-text-1 {
+    margin-right: 0;
+  }
+
+  .u-section-7 .u-text-2 {
+    margin-right: 310px;
+  }
+
+  .u-section-7 .u-text-3 {
+    margin-right: 501px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-7 .u-text-2 {
+    margin-right: 130px;
+  }
+
+  .u-section-7 .u-text-3 {
+    margin-right: 321px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-7 .u-text-1 {
+    font-size: 2.25rem;
+  }
+
+  .u-section-7 .u-text-2 {
+    margin-right: 0;
+  }
+
+  .u-section-7 .u-text-3 {
+    margin-right: 121px;
+  }
+}.u-section-8 {
+  background-image: none;
+}
+
+.u-section-8 .u-sheet-1 {
+  min-height: 587px;
+}
+
+.u-section-8 .u-text-1 {
+  font-weight: 400;
+  font-family: "Black Ops One";
+  font-size: 4.5rem;
+  margin: 20px 344px 0 0;
+}
+
+.u-section-8 .u-text-2 {
+  font-weight: 400;
+  font-family: "Black Ops One";
+  font-size: 2.25rem;
+  margin: -7px 730px 0 0;
+}
+
+.u-section-8 .u-text-3 {
+  font-family: Amaranth;
+  font-size: 2.25rem;
+  margin: 15px 756px 0 0;
+}
+
+.u-section-8 .u-text-4 {
+  font-size: 1.5rem;
+  margin: 38px -23px 60px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-8 .u-text-1 {
+    margin-right: 144px;
+  }
+
+  .u-section-8 .u-text-2 {
+    margin-right: 530px;
+  }
+
+  .u-section-8 .u-text-3 {
+    font-weight: normal;
+    margin-right: 556px;
+  }
+
+  .u-section-8 .u-text-4 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-8 .u-text-1 {
+    margin-right: 0;
+  }
+
+  .u-section-8 .u-text-2 {
+    margin-right: 310px;
+  }
+
+  .u-section-8 .u-text-3 {
+    margin-right: 336px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-8 .u-text-2 {
+    margin-right: 130px;
+  }
+
+  .u-section-8 .u-text-3 {
+    margin-right: 156px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-8 .u-text-1 {
+    font-size: 2.25rem;
+  }
+
+  .u-section-8 .u-text-2 {
+    margin-right: 0;
+  }
+
+  .u-section-8 .u-text-3 {
+    margin-right: 0;
+  }
+}.u-section-9 {
+  background-image: none;
+}
+
+.u-section-9 .u-sheet-1 {
+  min-height: 701px;
+}
+
+.u-section-9 .u-text-1 {
+  font-weight: 400;
+  font-family: "Black Ops One";
+  font-size: 4.5rem;
+  margin: 20px 344px 0 0;
+}
+
+.u-section-9 .u-text-2 {
+  font-weight: 400;
+  font-family: "Black Ops One";
+  font-size: 2.25rem;
+  margin: -7px 730px 0 0;
+}
+
+.u-section-9 .u-text-3 {
+  font-family: Amaranth;
+  font-size: 2.25rem;
+  margin: 15px 812px 0 0;
+}
+
+.u-section-9 .u-text-4 {
+  font-size: 1.5rem;
+  margin: 38px -23px 60px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-9 .u-text-1 {
+    margin-right: 144px;
+  }
+
+  .u-section-9 .u-text-2 {
+    margin-right: 530px;
+  }
+
+  .u-section-9 .u-text-3 {
+    font-weight: normal;
+    margin-right: 612px;
+  }
+
+  .u-section-9 .u-text-4 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-9 .u-text-1 {
+    margin-right: 0;
+  }
+
+  .u-section-9 .u-text-2 {
+    margin-right: 310px;
+  }
+
+  .u-section-9 .u-text-3 {
+    margin-right: 392px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-9 .u-text-2 {
+    margin-right: 130px;
+  }
+
+  .u-section-9 .u-text-3 {
+    margin-right: 212px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-9 .u-text-1 {
+    font-size: 2.25rem;
+  }
+
+  .u-section-9 .u-text-2 {
+    margin-right: 0;
+  }
+
+  .u-section-9 .u-text-3 {
+    margin-right: 12px;
+  }
+}.u-section-10 {
+  background-image: none;
+}
+
+.u-section-10 .u-sheet-1 {
+  min-height: 701px;
+}
+
+.u-section-10 .u-text-1 {
+  font-weight: 400;
+  font-family: "Black Ops One";
+  font-size: 4.5rem;
+  margin: 20px 344px 0 0;
+}
+
+.u-section-10 .u-text-2 {
+  font-weight: 400;
+  font-family: "Black Ops One";
+  font-size: 2.25rem;
+  margin: -7px 730px 0 0;
+}
+
+.u-section-10 .u-text-3 {
+  font-family: Amaranth;
+  font-size: 2.25rem;
+  margin: 15px 962px 0 0;
+}
+
+.u-section-10 .u-text-4 {
+  font-size: 1.5rem;
+  margin: 38px -23px 60px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-10 .u-text-1 {
+    margin-right: 144px;
+  }
+
+  .u-section-10 .u-text-2 {
+    margin-right: 530px;
+  }
+
+  .u-section-10 .u-text-3 {
+    font-weight: normal;
+    margin-right: 762px;
+  }
+
+  .u-section-10 .u-text-4 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-10 .u-text-1 {
+    margin-right: 0;
+  }
+
+  .u-section-10 .u-text-2 {
+    margin-right: 310px;
+  }
+
+  .u-section-10 .u-text-3 {
+    margin-right: 542px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-10 .u-text-2 {
+    margin-right: 130px;
+  }
+
+  .u-section-10 .u-text-3 {
+    margin-right: 362px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-10 .u-text-1 {
+    font-size: 2.25rem;
+  }
+
+  .u-section-10 .u-text-2 {
+    margin-right: 0;
+  }
+
+  .u-section-10 .u-text-3 {
+    margin-right: 162px;
+  }
+}.u-section-11 {
+  background-image: none;
+}
+
+.u-section-11 .u-sheet-1 {
+  min-height: 701px;
+}
+
+.u-section-11 .u-text-1 {
+  font-weight: 400;
+  font-family: "Black Ops One";
+  font-size: 4.5rem;
+  margin: 20px 344px 0 0;
+}
+
+.u-section-11 .u-text-2 {
+  font-weight: 400;
+  font-family: "Black Ops One";
+  font-size: 2.25rem;
+  margin: -7px 730px 0 0;
+}
+
+.u-section-11 .u-text-3 {
+  font-family: Amaranth;
+  font-size: 2.25rem;
+  margin: 15px 527px 0 0;
+}
+
+.u-section-11 .u-text-4 {
+  font-size: 1.5rem;
+  margin: 38px -23px 60px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-11 .u-text-1 {
+    margin-right: 144px;
+  }
+
+  .u-section-11 .u-text-2 {
+    margin-right: 530px;
+  }
+
+  .u-section-11 .u-text-3 {
+    font-weight: normal;
+    margin-right: 327px;
+  }
+
+  .u-section-11 .u-text-4 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-11 .u-text-1 {
+    margin-right: 0;
+  }
+
+  .u-section-11 .u-text-2 {
+    margin-right: 310px;
+  }
+
+  .u-section-11 .u-text-3 {
+    margin-right: 107px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-11 .u-text-2 {
+    margin-right: 130px;
+  }
+
+  .u-section-11 .u-text-3 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-11 .u-text-1 {
+    font-size: 2.25rem;
+  }
+
+  .u-section-11 .u-text-2 {
+    margin-right: 0;
+  }
+}.u-section-12 {
+  background-image: none;
+}
+
+.u-section-12 .u-sheet-1 {
+  min-height: 701px;
+}
+
+.u-section-12 .u-text-1 {
+  font-weight: 400;
+  font-family: "Black Ops One";
+  font-size: 4.5rem;
+  margin: 20px 344px 0 0;
+}
+
+.u-section-12 .u-text-2 {
+  font-weight: 400;
+  font-family: "Black Ops One";
+  font-size: 2.25rem;
+  margin: -7px 1029px 0 0;
+}
+
+.u-section-12 .u-text-3 {
+  font-size: 1.5rem;
+  margin: 45px -23px 60px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-12 .u-text-1 {
+    margin-right: 144px;
+  }
+
+  .u-section-12 .u-text-2 {
+    margin-right: 829px;
+  }
+
+  .u-section-12 .u-text-3 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-12 .u-text-1 {
+    margin-right: 0;
+  }
+
+  .u-section-12 .u-text-2 {
+    margin-right: 609px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-12 .u-text-2 {
+    margin-right: 429px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-12 .u-text-1 {
+    font-size: 2.25rem;
+  }
+
+  .u-section-12 .u-text-2 {
+    margin-right: 229px;
+  }
+}.u-section-13 {
+  background-image: none;
+}
+
+.u-section-13 .u-sheet-1 {
+  min-height: 972px;
+}
+
+.u-section-13 .u-text-1 {
+  font-weight: 400;
+  font-family: "Black Ops One";
+  font-size: 4.5rem;
+  margin: 20px 496px 0 0;
+}
+
+.u-section-13 .u-text-2 {
+  font-size: 1.25rem;
+  font-style: italic;
+  margin: 37px -23px 60px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-13 .u-text-1 {
+    margin-right: 296px;
+  }
+
+  .u-section-13 .u-text-2 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-13 .u-text-1 {
+    margin-right: 76px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-13 .u-text-1 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-13 .u-text-1 {
+    font-size: 2.25rem;
+  }
+}.u-section-14 {
+  background-image: none;
+}
+
+.u-section-14 .u-sheet-1 {
+  min-height: 600px;
+}
+
+.u-section-14 .u-text-1 {
+  font-weight: 400;
+  font-family: "Black Ops One";
+  font-size: 4.5rem;
+  margin: 20px 496px 0 0;
+}
+
+.u-section-14 .u-text-2 {
+  font-weight: 400;
+  font-family: "Black Ops One";
+  font-size: 2.25rem;
+  margin: -7px 690px 0 0;
+}
+
+.u-section-14 .u-text-3 {
+  font-size: 1.5rem;
+  margin: 45px -23px 60px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-14 .u-text-1 {
+    margin-right: 296px;
+  }
+
+  .u-section-14 .u-text-2 {
+    margin-right: 490px;
+  }
+
+  .u-section-14 .u-text-3 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-14 .u-text-1 {
+    margin-right: 76px;
+  }
+
+  .u-section-14 .u-text-2 {
+    margin-right: 270px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-14 .u-text-1 {
+    margin-right: 0;
+  }
+
+  .u-section-14 .u-text-2 {
+    margin-right: 90px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-14 .u-text-1 {
+    font-size: 2.25rem;
+  }
+
+  .u-section-14 .u-text-2 {
+    margin-right: 0;
+  }
+}.u-section-15 {
+  background-image: none;
+}
+
+.u-section-15 .u-sheet-1 {
+  min-height: 600px;
+}
+
+.u-section-15 .u-text-1 {
+  font-weight: 400;
+  font-family: "Black Ops One";
+  font-size: 4.5rem;
+  margin: 20px 496px 0 0;
+}
+
+.u-section-15 .u-text-2 {
+  font-weight: 400;
+  font-family: "Black Ops One";
+  font-size: 2.25rem;
+  margin: -7px 998px 0 0;
+}
+
+.u-section-15 .u-text-3 {
+  font-size: 1.5rem;
+  margin: 45px -23px 60px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-15 .u-text-1 {
+    margin-right: 296px;
+  }
+
+  .u-section-15 .u-text-2 {
+    margin-right: 798px;
+  }
+
+  .u-section-15 .u-text-3 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-15 .u-text-1 {
+    margin-right: 76px;
+  }
+
+  .u-section-15 .u-text-2 {
+    margin-right: 578px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-15 .u-text-1 {
+    margin-right: 0;
+  }
+
+  .u-section-15 .u-text-2 {
+    margin-right: 398px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-15 .u-text-1 {
+    font-size: 2.25rem;
+  }
+
+  .u-section-15 .u-text-2 {
+    margin-right: 198px;
+  }
+}.u-section-16 {
+  background-image: none;
+}
+
+.u-section-16 .u-sheet-1 {
+  min-height: 1013px;
+}
+
+.u-section-16 .u-text-1 {
+  font-weight: 400;
+  font-family: "Black Ops One";
+  font-size: 4.5rem;
+  margin: 20px 496px 0 0;
+}
+
+.u-section-16 .u-text-2 {
+  font-weight: 400;
+  font-family: "Black Ops One";
+  font-size: 2.25rem;
+  margin: -7px 925px 0 0;
+}
+
+.u-section-16 .u-image-1 {
+  width: 1161px;
+  height: 804px;
+  margin: 8px -21px 0 0;
+}
+
+.u-section-16 .u-text-3 {
+  font-style: italic;
+  font-size: 1.25rem;
+  margin: 18px -21px 20px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-16 .u-sheet-1 {
+    min-height: 860px;
+  }
+
+  .u-section-16 .u-text-1 {
+    margin-right: 296px;
+  }
+
+  .u-section-16 .u-text-2 {
+    margin-right: 725px;
+  }
+
+  .u-section-16 .u-image-1 {
+    width: 940px;
+    height: 651px;
+    margin-right: 0;
+  }
+
+  .u-section-16 .u-text-3 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-16 .u-sheet-1 {
+    min-height: 708px;
+  }
+
+  .u-section-16 .u-text-1 {
+    margin-right: 76px;
+  }
+
+  .u-section-16 .u-text-2 {
+    margin-right: 505px;
+  }
+
+  .u-section-16 .u-image-1 {
+    width: 720px;
+    height: 499px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-16 .u-sheet-1 {
+    min-height: 583px;
+  }
+
+  .u-section-16 .u-text-1 {
+    margin-right: 0;
+  }
+
+  .u-section-16 .u-text-2 {
+    margin-right: 325px;
+  }
+
+  .u-section-16 .u-image-1 {
+    width: 540px;
+    height: 374px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-16 .u-sheet-1 {
+    min-height: 444px;
+  }
+
+  .u-section-16 .u-text-1 {
+    font-size: 2.25rem;
+  }
+
+  .u-section-16 .u-text-2 {
+    margin-right: 125px;
+  }
+
+  .u-section-16 .u-image-1 {
+    width: 340px;
+    height: 235px;
+  }
+}.u-section-17 {
+  background-image: none;
+}
+
+.u-section-17 .u-sheet-1 {
+  min-height: 933px;
+}
+
+.u-section-17 .u-text-1 {
+  font-weight: 400;
+  font-family: "Black Ops One";
+  font-size: 4.5rem;
+  margin: 20px 496px 0 0;
+}
+
+.u-section-17 .u-text-2 {
+  font-weight: 400;
+  font-family: "Black Ops One";
+  font-size: 2.25rem;
+  margin: -7px 925px 0 0;
+}
+
+.u-section-17 .u-image-1 {
+  width: 1161px;
+  height: 804px;
+  margin: -32px -21px 0 0;
+}
+
+.u-section-17 .u-text-3 {
+  font-style: italic;
+  font-size: 1.25rem;
+  margin: -46px -21px 44px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-17 .u-sheet-1 {
+    min-height: 780px;
+  }
+
+  .u-section-17 .u-text-1 {
+    margin-right: 296px;
+  }
+
+  .u-section-17 .u-text-2 {
+    margin-right: 725px;
+  }
+
+  .u-section-17 .u-image-1 {
+    width: 940px;
+    height: 651px;
+    margin-right: 0;
+  }
+
+  .u-section-17 .u-text-3 {
+    margin-top: 107px;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-17 .u-sheet-1 {
+    min-height: 628px;
+  }
+
+  .u-section-17 .u-text-1 {
+    margin-right: 76px;
+  }
+
+  .u-section-17 .u-text-2 {
+    margin-right: 505px;
+  }
+
+  .u-section-17 .u-image-1 {
+    width: 720px;
+    height: 499px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-17 .u-sheet-1 {
+    min-height: 503px;
+  }
+
+  .u-section-17 .u-text-1 {
+    margin-right: 0;
+  }
+
+  .u-section-17 .u-text-2 {
+    margin-right: 325px;
+  }
+
+  .u-section-17 .u-image-1 {
+    width: 540px;
+    height: 374px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-17 .u-sheet-1 {
+    min-height: 364px;
+  }
+
+  .u-section-17 .u-text-1 {
+    font-size: 2.25rem;
+  }
+
+  .u-section-17 .u-text-2 {
+    margin-right: 125px;
+  }
+
+  .u-section-17 .u-image-1 {
+    width: 340px;
+    height: 235px;
+  }
+}.u-section-18 {
+  background-image: none;
+}
+
+.u-section-18 .u-sheet-1 {
+  min-height: 730px;
+}
+
+.u-section-18 .u-text-1 {
+  font-weight: 400;
+  font-family: "Black Ops One";
+  font-size: 4.5rem;
+  margin: 20px 496px 0 0;
+}
+
+.u-section-18 .u-text-2 {
+  font-weight: 400;
+  font-family: "Black Ops One";
+  font-size: 2.25rem;
+  margin: -7px 1033px 0 0;
+}
+
+.u-section-18 .u-text-3 {
+  font-size: 1.5rem;
+  margin: 20px -23px 60px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-18 .u-text-1 {
+    margin-right: 296px;
+  }
+
+  .u-section-18 .u-text-2 {
+    margin-right: 833px;
+  }
+
+  .u-section-18 .u-text-3 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-18 .u-text-1 {
+    margin-right: 76px;
+  }
+
+  .u-section-18 .u-text-2 {
+    margin-right: 613px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-18 .u-text-1 {
+    margin-right: 0;
+  }
+
+  .u-section-18 .u-text-2 {
+    margin-right: 433px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-18 .u-text-1 {
+    font-size: 2.25rem;
+  }
+
+  .u-section-18 .u-text-2 {
+    margin-right: 233px;
+  }
+}.u-section-19 {
+  background-image: none;
+}
+
+.u-section-19 .u-sheet-1 {
+  min-height: 730px;
+}
+
+.u-section-19 .u-text-1 {
+  font-weight: 400;
+  font-family: "Black Ops One";
+  font-size: 4.5rem;
+  margin: 20px 496px 0 0;
+}
+
+.u-section-19 .u-text-2 {
+  font-weight: 400;
+  font-family: "Black Ops One";
+  font-size: 2.25rem;
+  margin: -7px 386px 0 0;
+}
+
+.u-section-19 .u-text-3 {
+  font-size: 1.5rem;
+  margin: 20px -23px 60px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-19 .u-text-1 {
+    margin-right: 296px;
+  }
+
+  .u-section-19 .u-text-2 {
+    margin-right: 186px;
+  }
+
+  .u-section-19 .u-text-3 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-19 .u-text-1 {
+    margin-right: 76px;
+  }
+
+  .u-section-19 .u-text-2 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-19 .u-text-1 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-19 .u-text-1 {
+    font-size: 2.25rem;
+  }
+}.u-section-20 {
+  background-image: none;
+}
+
+.u-section-20 .u-sheet-1 {
+  min-height: 730px;
+}
+
+.u-section-20 .u-text-1 {
+  font-weight: 400;
+  font-family: "Black Ops One";
+  font-size: 4.5rem;
+  margin: 20px 496px 0 0;
+}
+
+.u-section-20 .u-text-2 {
+  font-weight: 400;
+  font-family: "Black Ops One";
+  font-size: 2.25rem;
+  margin: -7px 857px 0 0;
+}
+
+.u-section-20 .u-text-3 {
+  font-size: 1.5rem;
+  margin: 20px -23px 60px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-20 .u-text-1 {
+    margin-right: 296px;
+  }
+
+  .u-section-20 .u-text-2 {
+    margin-right: 657px;
+  }
+
+  .u-section-20 .u-text-3 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-20 .u-text-1 {
+    margin-right: 76px;
+  }
+
+  .u-section-20 .u-text-2 {
+    margin-right: 437px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-20 .u-text-1 {
+    margin-right: 0;
+  }
+
+  .u-section-20 .u-text-2 {
+    margin-right: 257px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-20 .u-text-1 {
+    font-size: 2.25rem;
+  }
+
+  .u-section-20 .u-text-2 {
+    margin-right: 57px;
+  }
+}.u-section-21 {
+  background-image: none;
+}
+
+.u-section-21 .u-sheet-1 {
+  min-height: 778px;
+}
+
+.u-section-21 .u-text-1 {
+  font-weight: 400;
+  font-family: "Black Ops One";
+  font-size: 4.5rem;
+  margin: 20px 496px 0 0;
+}
+
+.u-section-21 .u-text-2 {
+  font-weight: 400;
+  font-family: "Black Ops One";
+  font-size: 2.25rem;
+  margin: -7px 0 0;
+}
+
+.u-section-21 .u-text-3 {
+  font-size: 1.5rem;
+  font-style: italic;
+  margin: 20px 313px 0 0;
+}
+
+.u-section-21 .u-image-1 {
+  width: 521px;
+  height: 521px;
+  margin: -521px -172px 60px auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-21 .u-text-1 {
+    margin-right: 296px;
+  }
+
+  .u-section-21 .u-text-3 {
+    margin-right: 113px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-21 .u-text-1 {
+    margin-right: 76px;
+  }
+
+  .u-section-21 .u-text-3 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-21 .u-text-1 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-21 .u-sheet-1 {
+    min-height: 597px;
+  }
+
+  .u-section-21 .u-text-1 {
+    font-size: 2.25rem;
+  }
+
+  .u-section-21 .u-image-1 {
+    width: 340px;
+    height: 340px;
+    margin-right: 0;
+  }
+}.u-section-22 {
+  background-image: none;
+}
+
+.u-section-22 .u-sheet-1 {
+  min-height: 1032px;
+}
+
+.u-section-22 .u-text-1 {
+  font-weight: 400;
+  font-family: "Black Ops One";
+  font-size: 4.5rem;
+  margin: 20px 496px 0 0;
+}
+
+.u-section-22 .u-text-2 {
+  font-weight: 400;
+  font-family: "Black Ops One";
+  font-size: 2.25rem;
+  margin: -7px 0 0;
+}
+
+.u-section-22 .u-text-3 {
+  font-size: 1.5rem;
+  font-style: italic;
+  margin: 20px 313px 0 0;
+}
+
+.u-section-22 .u-image-1 {
+  width: 711px;
+  height: 711px;
+  margin: -718px -249px 60px auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-22 .u-text-1 {
+    margin-right: 296px;
+  }
+
+  .u-section-22 .u-text-3 {
+    margin-right: 113px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-22 .u-text-1 {
+    margin-right: 76px;
+  }
+
+  .u-section-22 .u-text-3 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-22 .u-text-1 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-22 .u-sheet-1 {
+    min-height: 661px;
+  }
+
+  .u-section-22 .u-text-1 {
+    font-size: 2.25rem;
+  }
+
+  .u-section-22 .u-image-1 {
+    width: 340px;
+    height: 340px;
+    margin-right: 0;
+  }
+}.u-section-23 {
+  background-image: none;
+}
+
+.u-section-23 .u-sheet-1 {
+  min-height: 687px;
+}
+
+.u-section-23 .u-text-1 {
+  font-weight: 400;
+  font-family: "Black Ops One";
+  font-size: 4.5rem;
+  margin: 20px 496px 0 0;
+}
+
+.u-section-23 .u-text-2 {
+  font-weight: 400;
+  font-family: "Black Ops One";
+  font-size: 2.25rem;
+  margin: -7px 0 0;
+}
+
+.u-section-23 .u-text-3 {
+  font-size: 1.5rem;
+  font-style: italic;
+  margin: 20px 313px 0 0;
+}
+
+.u-section-23 .u-image-1 {
+  width: 521px;
+  height: 521px;
+  margin: -521px -169px 60px auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-23 .u-text-1 {
+    margin-right: 296px;
+  }
+
+  .u-section-23 .u-text-3 {
+    margin-right: 113px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-23 .u-text-1 {
+    margin-right: 76px;
+  }
+
+  .u-section-23 .u-text-3 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-23 .u-text-1 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-23 .u-sheet-1 {
+    min-height: 506px;
+  }
+
+  .u-section-23 .u-text-1 {
+    font-size: 2.25rem;
+  }
+
+  .u-section-23 .u-image-1 {
+    width: 340px;
+    height: 340px;
+    margin-right: 0;
+  }
+}.u-section-24 {
+  background-image: none;
+}
+
+.u-section-24 .u-sheet-1 {
+  min-height: 910px;
+}
+
+.u-section-24 .u-text-1 {
+  font-weight: 400;
+  font-family: "Black Ops One";
+  font-size: 4.5rem;
+  margin: 20px 496px 0 0;
+}
+
+.u-section-24 .u-text-2 {
+  font-weight: 400;
+  font-family: "Black Ops One";
+  font-size: 2.25rem;
+  margin: -7px 0 0;
+}
+
+.u-section-24 .u-text-3 {
+  font-size: 1.5rem;
+  font-style: italic;
+  margin: 20px 313px 0 0;
+}
+
+.u-section-24 .u-image-1 {
+  width: 521px;
+  height: 521px;
+  margin: -550px -217px 60px auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-24 .u-text-1 {
+    margin-right: 296px;
+  }
+
+  .u-section-24 .u-text-3 {
+    margin-right: 113px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-24 .u-text-1 {
+    margin-right: 76px;
+  }
+
+  .u-section-24 .u-text-3 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-24 .u-text-1 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-24 .u-text-1 {
+    font-size: 2.25rem;
+  }
+}.u-section-25 {
+  background-image: none;
+}
+
+.u-section-25 .u-sheet-1 {
+  min-height: 750px;
+}
+
+.u-section-25 .u-text-1 {
+  font-weight: 400;
+  font-family: "Black Ops One";
+  font-size: 4.5rem;
+  margin: 20px 496px 0 0;
+}
+
+.u-section-25 .u-text-2 {
+  font-weight: 400;
+  font-family: "Black Ops One";
+  font-size: 2.25rem;
+  margin: -7px 0 0;
+}
+
+.u-section-25 .u-text-3 {
+  font-size: 1.5rem;
+  font-style: italic;
+  margin: 20px 313px 0 0;
+}
+
+.u-section-25 .u-image-1 {
+  width: 658px;
+  height: 658px;
+  margin: -605px -281px 52px auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-25 .u-text-1 {
+    margin-right: 296px;
+  }
+
+  .u-section-25 .u-text-3 {
+    margin-right: 113px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-25 .u-text-1 {
+    margin-right: 76px;
+  }
+
+  .u-section-25 .u-text-3 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-25 .u-text-1 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-25 .u-sheet-1 {
+    min-height: 432px;
+  }
+
+  .u-section-25 .u-text-1 {
+    font-size: 2.25rem;
+  }
+
+  .u-section-25 .u-image-1 {
+    width: 340px;
+    height: 340px;
+    margin-right: 0;
+  }
+}
